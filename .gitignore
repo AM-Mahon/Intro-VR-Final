@@ -34,3 +34,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Large assets
+Library/
+
+# High Resolution textures
+*.psd
+*.tga
+*.tga.meta
